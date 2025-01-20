@@ -16,19 +16,19 @@ como elas funcionam.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-machado-tubino-7707a3106/">
-    <img width="42px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/NGBriju.png" />
+    <img width="52px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/NGBriju.png" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
   <a href="https://x.com/tubino2k">
-    <img width="42px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OR5X3DA.png" />
+    <img width="52px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OR5X3DA.png" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
   <a href="https://www.facebook.com/lucas.machadotubino/?locale=pt_BR" alt="Facebook" title="Facebook">
-    <img width="42px" src="https://i.imgur.com/VgkNYXI.png" />
+    <img width="52px" src="https://i.imgur.com/VgkNYXI.png" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
   <a href="https://www.instagram.com/tubino2k/" alt="Instagram" title="Instagram">
-    <img width="42px" src="https://i.imgur.com/6QzKhtx.png" />
+    <img width="52px" src="https://i.imgur.com/6QzKhtx.png" />
   </a>
 </p>
 
@@ -170,14 +170,14 @@ como elas funcionam.
     alt="GitHub Stats" 
     height="200" 
     style="padding: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
