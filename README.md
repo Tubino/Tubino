@@ -169,12 +169,12 @@ como elas funcionam.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
