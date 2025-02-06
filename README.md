@@ -170,7 +170,7 @@ como elas funcionam.
     alt="GitHub Stats" 
     height="200" 
     style="padding: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
