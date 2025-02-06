@@ -37,7 +37,6 @@ como elas funcionam.
 <p>
   📧 Email: <a href="mailto:lukastubino@gmail.com">Enviar email</a>
   <br/>
-  📞 Telefone: +55 (51) 9 9982-0072
 </p>
 
 
