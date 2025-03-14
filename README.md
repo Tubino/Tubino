@@ -1,165 +1,90 @@
-# 👨🏻‍💻 Lucas Tubino
+# 👨🏻‍💻 Lucas M. Tubino
 
 **`Desenvolvedor FullStack Jr`**
 
-Me chamo Lucas Machado Tubino, tenho 27 anos e sou natural do Rio Grande do Sul. Concluí Sistemas da Informação pela UniFtec e atualmente estou estudando para me tornar um dev fullstack pela <span style="color:purple">Rocketseat</span> 🚀. Sou entusiasmado por entender como a IoT funciona, adoro
-desafios e resolver problemas. Aprendo rápido, sou resiliente
-e apaixonado por tudo relacionado a novas tecnologias e
-como elas funcionam.
+### Sobre mim:
 
-<br/>
-<br/>
+Me chamo Lucas Tubino, tenho 27 anos e sou apaixonado por Tecnologia, IoT e Desenvolvimento de Software. Formado em Sistemas da Informação pela UniFtec e com um grande interesse por Internet das Coisas IoT e inovação. Gosto de desafios e de resolver problemas de forma criativa, sempre buscando aprender algo novo e aprimorar minhas habilidades. Atualmente, estou cursando a formação FullStack Developer na Rocketseat, onde estou consolidando meus conhecimentos em 
+desenvolvimento web e ampliando minha capacidade de criar soluções eficientes e escaláveis.
 
-📫 Redes e como me contactar:
-<br/>
-<br/>
+### Situação Atual
+* 🚀 Estou em busca da minha primeira oportunidade como Desenvolvedor Full-Stack ou Front-End, sempre aprimorando meus conhecimentos em tecnologias web para criar soluções eficientes e escaláveis, onde eu possa contribuir com equipes inovadoras e crescer profissionalmente.
+* 📚 Continuo a expandir meu conjunto de habilidades, aprofundando meus conhecimentos em JavaScript, React, NodeJS, Vue e Angular buscando me manter na vanguarda das tecnologias.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-machado-tubino-7707a3106/">
-    <img width="52px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/NGBriju.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
-  <a href="https://x.com/tubino2k">
-    <img width="52px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OR5X3DA.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
-  <a href="https://www.facebook.com/lucas.machadotubino/?locale=pt_BR" alt="Facebook" title="Facebook">
-    <img width="52px" src="https://i.imgur.com/VgkNYXI.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaço -->
-  <a href="https://www.instagram.com/tubino2k/" alt="Instagram" title="Instagram">
-    <img width="52px" src="https://i.imgur.com/6QzKhtx.png" />
-  </a>
-</p>
+### About me:
 
-<br/>
+My name is Lucas Tubino, I am 27 years old, and I am passionate about Technology, IoT, and Software Development. I hold a degree in Information Systems from UniFtec and have a strong interest in the Internet of Things (IoT) and innovation. I enjoy challenges and solving problems creatively, always striving to learn something new and improve my skills. Currently, I am enrolled in the FullStack Developer program at Rocketseat, where I am solidifying my knowledge in web development and enhancing my ability to create efficient and scalable solutions.
 
-<p>
-  📧 Email: <a href="mailto:lukastubino@gmail.com">Enviar email</a>
-  <br/>
-</p>
-
-
+### Current Situation
+* 🚀 I am seeking my first opportunity as a Full-Stack or Front-End Developer, continuously improving my knowledge of web technologies to create efficient and scalable solutions, where I can contribute to innovative teams and grow professionally.
+* 📚 I am constantly expanding my skill set, deepening my knowledge in JavaScript, React, NodeJS, Vue, and Angular, aiming to stay at the forefront of technology.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<br>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> -->
+<div class="galeria_tech" align="center">
+  <h1>Tecnologias Para Desenvolvimento</h1><br>
+  <img src="https://skillicons.dev/icons?i=html" height="50px">
+  <img src="https://skillicons.dev/icons?i=css" height="50px">
+  <img src="https://skillicons.dev/icons?i=javascript" height="50px">
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="50"/>
+  
+ 
 
+  <br>
+  <h1>Banco de Dados</h1>
+  <img src="https://haostreinamentos.com.br/images/cursos/Sql.png" height="50px">
+
+  <br>
+  <h1>Outras Tecnologias</h1>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+
+
+<br><br>
+
+|Cursos| Certificado|
+|------|------------|
+|Imersão Alura - Frontend|[Certificado](https://drive.google.com/file/d/1EhtKqumwXuH0oqXQ5orwiymA2sXYhW8n/view?usp=sharing)
+|Desbloqueando a programação|[Certificado](https://drive.google.com/file/d/1fPXUbaLUTZxMzHlJh9drBUf8EeODwWRe/view?usp=sharing)
+|Fundamentos da programação Web|[Certificado](https://drive.google.com/file/d/1YDWNhRbRXttKoPwgeIUjU3F47J7WwOR7/view?usp=sharing)
+|Mentoria de carreira Rocketseat|[Certificado](https://drive.google.com/file/d/1sZH9eCDZCrTRmbMg1dV2oUXsU33EfkNE/view?usp=sharing)
+|NLW 19 - Fullstack|[Certificado](https://drive.google.com/file/d/1y76SLQc01DFJbD_uovQfoV55TxaNWuwo/view?usp=sharing)
+|NLW React|[Certificado](https://drive.google.com/file/d/1k_SLnbSYcPbjdCxcic8iud26qW4sSeXS/view?usp=sharing)
+
+<br>
+
+### 📫 Conecte-se comigo:
 <br/>
-<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-machado-tubino-7707a3106/" style="text-decoration: none; display: inline-block;">
+    <img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+  </a>
+  &#8287;&#8287;<!-- Espaço -->
+  <a href="mailto:lukastubino@gmail.com style="text-decoration: none; display: inline-block;">
+    <img width="52px" alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  </a>
+  &#8287;&#8287;<!-- Espaço -->
+  <a href="https://www.facebook.com/lucas.machadotubino/?locale=pt_BR" alt="Facebook" title="Facebook" style="text-decoration: none; display: inline-block;">
+    <img width="52px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+  &#8287;&#8287;<!-- Espaço -->
+  <a href="https://www.instagram.com/tubino2k/" alt="Instagram" title="Instagram" style="text-decoration: none; display: inline-block;">
+    <img width="52px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+</p>
+
+<br>
 
 ### 📊 Estatísticas
 
@@ -176,7 +101,7 @@ como elas funcionam.
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>
