@@ -90,15 +90,17 @@ My name is Lucas Tubino, I am 27 years old, and I am passionate about Technology
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tubino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
+  <br>
+
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubino&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6" 
