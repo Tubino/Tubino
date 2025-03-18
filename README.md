@@ -52,14 +52,16 @@ My name is Lucas Tubino, I am 27 years old, and I am passionate about Technology
 
 <br><br>
 
-|Cursos| Certificado|
-|------|------------|
-|Imersão Alura - Frontend|[Certificado](https://drive.google.com/file/d/1EhtKqumwXuH0oqXQ5orwiymA2sXYhW8n/view?usp=sharing)
-|Desbloqueando a programação|[Certificado](https://drive.google.com/file/d/1fPXUbaLUTZxMzHlJh9drBUf8EeODwWRe/view?usp=sharing)
-|Fundamentos da programação Web|[Certificado](https://drive.google.com/file/d/1YDWNhRbRXttKoPwgeIUjU3F47J7WwOR7/view?usp=sharing)
-|Mentoria de carreira Rocketseat|[Certificado](https://drive.google.com/file/d/1sZH9eCDZCrTRmbMg1dV2oUXsU33EfkNE/view?usp=sharing)
-|NLW 19 - Fullstack|[Certificado](https://drive.google.com/file/d/1y76SLQc01DFJbD_uovQfoV55TxaNWuwo/view?usp=sharing)
-|NLW React|[Certificado](https://drive.google.com/file/d/1k_SLnbSYcPbjdCxcic8iud26qW4sSeXS/view?usp=sharing)
+| Cursos                                 | Certificado                                                                                         | Certificates |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
+| Git e Github              | [Certificado](https://drive.google.com/file/d/1E5dR0nR1BtusH-IBWchYASEZjRjy-RY8/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/155DJxxXg39YE2S7ZQZdteGneTnizv9aa/view?usp=sharing)  |
+| JavaScript           | [Certificado](https://drive.google.com/file/d/1ELr2VwpN2Ckc08fYORaAbfcnCxysYRxv/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1ky9VOeM5TTn--zjDGg4CbekWlnM9rxOl/view?usp=sharing)  |
+| Imersão Alura - Frontend              | [Certificado](https://drive.google.com/file/d/1EhtKqumwXuH0oqXQ5orwiymA2sXYhW8n/view?usp=sharing) 
+| Desbloqueando a programação           | [Certificado](https://drive.google.com/file/d/1fPXUbaLUTZxMzHlJh9drBUf8EeODwWRe/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1NtFI2Eo_qzBQbTEuRGTz5tf3NuA8autE/view?usp=sharing)  |
+| Fundamentos da programação Web        | [Certificado](https://drive.google.com/file/d/1YDWNhRbRXttKoPwgeIUjU3F47J7WwOR7/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1ol9YIWL6edd3pc4N0_LXO05EdRITaDfF/view?usp=sharing)  |
+| Mentoria de carreira Rocketseat       | [Certificado](https://drive.google.com/file/d/1sZH9eCDZCrTRmbMg1dV2oUXsU33EfkNE/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1BA_VThOQFY-r32D_NTsfVgkKwb00CPrE/view?usp=sharing)  |
+| NLW 19 - Fullstack                    | [Certificado](https://drive.google.com/file/d/1y76SLQc01DFJbD_uovQfoV55TxaNWuwo/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1-9DR5rdsMambZy-E98mFAA0a_K1_UFBe/view?usp=sharing)  |
+| NLW React                             | [Certificado](https://drive.google.com/file/d/1k_SLnbSYcPbjdCxcic8iud26qW4sSeXS/view?usp=sharing)   | [Certificate](https://drive.google.com/file/d/1_N2EnpLTreg38ba9efVwt65qcNc4lCQE/view?usp=sharing)  |
 
 <br>
 
